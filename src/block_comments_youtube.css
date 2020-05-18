@@ -1,0 +1,5 @@
+
+#watch-discussion, #comments, #top-level-buttons, #sentiment, #count, #dot, #metadata-line, #owner-sub-count, #scroll-container, #clarify-box {
+	display: none;
+	visibility: hidden;
+}
