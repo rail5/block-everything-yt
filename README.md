@@ -8,4 +8,4 @@ Honestly, this is just the way that *I, personally,* prefer to browse YouTube. M
 
 This addon blocks anything which I feel is primarily an attempt to influence the way we *feel* about what we're seeing. It blocks: comments, ratings, view counts, subscriber counts, and "official" propaganda "warnings" under different news media (*X organization is good, Y organization is bad*).
 
-**To install,** compress these files into a .zip folder (with manifest.json at the **root** of the .zip folder, go to *about:addons* and click *"Install addon from file"*, and select the .zip folder
+**To install,** compress these files into a .zip folder (with manifest.json at the **root** of the .zip folder), go to *about:addons* and click *"Install addon from file"*, and select the .zip folder
