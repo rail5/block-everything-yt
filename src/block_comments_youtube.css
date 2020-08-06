@@ -1,5 +1,5 @@
 
-#watch-discussion, #comments, #top-level-buttons, #sentiment, #count, #dot, #metadata-line, #owner-sub-count, #scroll-container, #clarify-box {
+#watch-discussion, #comments, #top-level-buttons, #sentiment, #count, #dot, #metadata-line, #owner-sub-count, #clarify-box, .style-scope.ytd-feed-filter-chip-bar-renderer {
 	display: none;
 	visibility: hidden;
 }
