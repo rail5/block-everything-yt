@@ -1,6 +1,11 @@
 # block_everything_yt
 Firefox addon that blocks manipulative elements on YouTube
 
+**Note**
+
+This addon is becoming increasingly difficult to maintain, given YouTube's ongoing transition to "web application" rather than "website" format. At this point, I'd really recommend using an alternative YT front-end -- although on that note, I feel that Invidious and FreeTube are deeply deficient, at least regarding customizability (hiding comments, ratings, view counts, etc)
+
+**Addon info**
 
 Originally forked from mverleg's "Block Comments"
 
@@ -8,7 +13,7 @@ This addon blocks anything which is primarily, rather than *content*, something 
 
 **To install:** 
 
-*From this repo:*
+*From this repo (latest version):*
 Compress these files into a .zip folder (with manifest.json at the **root** of the .zip folder), go to *about:addons* in *Firefox Developer Edition* and click *"Install addon from file"*, and select the .zip folder
 
 *From Mozilla:*

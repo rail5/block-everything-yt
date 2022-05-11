@@ -1,5 +1,5 @@
 
-#watch-discussion, #comments, #top-level-buttons, #sentiment, #count, #dot, #metadata-line, #owner-sub-count, #clarify-box, .style-scope.ytd-feed-filter-chip-bar-renderer, .style-scope.yt-related-chip-cloud-renderer, .sticky.style-scope.ytd-video-secondary-info-renderer, .style-scope.ytd-rich-section-renderer, .top-level-buttons {
+#watch-discussion, #comments, #top-level-buttons, #sentiment, #count, #dot, #metadata-line, #owner-sub-count, #clarify-box, .style-scope.ytd-feed-filter-chip-bar-renderer, .style-scope.yt-related-chip-cloud-renderer, .sticky.style-scope.ytd-video-secondary-info-renderer, .style-scope.ytd-rich-section-renderer, .top-level-buttons, ytd-comments-entry-point-header-renderer, ytd-engagement-panel-section-list-renderer, #super-title, #chat-messages, yt-live-chat-app, #snippet-text {
 	display: none;
 	visibility: hidden;
 }
