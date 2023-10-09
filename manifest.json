@@ -2,9 +2,9 @@
   "manifest_version": 2,
 
   "name": "Block Everything YT",
-  "version": "1.6",
+  "version": "1.7",
   "author": "rail5",
-  "homepage_url": "https://github.com/rail5/block_everything_yt",
+  "homepage_url": "https://github.com/rail5/block-everything-yt",
   "description": "This addon blocks manipulative elements on YouTube",
   "icons": {
     "128": "bc.png"
